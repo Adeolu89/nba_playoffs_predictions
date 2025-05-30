@@ -1,0 +1,4 @@
+nba_playoffs/
+__pycache__/
+*.pyc
+.env
